@@ -1,6 +1,6 @@
 {
   "name": "landandsea",
-  "version": "1.0.133",
+  "version": "1.0.134",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -42,7 +42,7 @@
     "postcss-cli": "^11.0.0",
     "postcss-nested": "7.0.2",
     "prettier": "3.4.2",
-    "tailwindcss": "^3.3.2"
+    "tailwindcss": "^4.0.0"
   },
   "lint-staged": {
     "**/*.{ts,css,less,scss,js,json,md,yaml,html}": "npm run format"
