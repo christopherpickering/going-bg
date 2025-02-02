@@ -1,6 +1,6 @@
 {
   "name": "landandsea",
-  "version": "1.0.133",
+  "version": "1.0.134",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "@11ty/eleventy": "3.0.0",
     "@11ty/eleventy-img": "6.0.1",
     "@11ty/eleventy-navigation": "0.3.5",
-    "@11ty/eleventy-plugin-rss": "1.2.0",
+    "@11ty/eleventy-plugin-rss": "2.0.3",
     "@11ty/eleventy-plugin-syntaxhighlight": "5.0.0",
     "@fullhuman/postcss-purgecss": "^7.0.0",
     "@quasibit/eleventy-plugin-schema": "1.11.1",
